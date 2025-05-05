@@ -1,0 +1,1 @@
+This file (README) was intended to support other web applications but in this case was not necessary, its prescence here is indispensables for repositories to be rendered by webbrowsers. please disregard any partnerships/associations/pairing/conjunction/ with any other files called by this specific IP Address: 
